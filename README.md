@@ -1,5 +1,6 @@
 ![Light Logo](https://raw.githubusercontent.com/apache/shenyu-website/main/static/img/logo-light.svg#gh-dark-mode-only)
 ![Dark Logo](https://raw.githubusercontent.com/apache/shenyu-website/main/static/img/logo.svg#gh-light-mode-only)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJesse1206%2Fshenyu.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJesse1206%2Fshenyu?ref=badge_shield)
 
 <p align="center">
   <strong>Scalable, High Performance, Responsive API Gateway Solution for all MicroServices</strong>
@@ -55,6 +56,9 @@
 <br/>
 
 ---
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJesse1206%2Fshenyu.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJesse1206%2Fshenyu?ref=badge_large)
 
 # Architecture
  
